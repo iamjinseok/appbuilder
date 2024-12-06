@@ -1,0 +1,15 @@
+.column-layout {
+    display: flex;
+    flex-direction: column;
+}
+.master-view-container {
+    justify-content: center;
+    align-items: stretch;
+    align-content: stretch;
+    height: 100%;
+}
+.h1 {
+    text-align: center;
+    height: max-content;
+    min-width: min-content;
+}
